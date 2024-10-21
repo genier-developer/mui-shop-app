@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/components/app.tsx","./src/components/basket.tsx","./src/components/basketitem.tsx","./src/components/goodsitem.tsx","./src/components/goodslist.tsx","./src/components/header.tsx","./src/components/search.tsx","./src/components/snack.tsx","./src/data/goods.ts"],"version":"5.6.3"}
